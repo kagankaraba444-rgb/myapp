@@ -16,6 +16,11 @@
         "name": "XVIDEOS",
         "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/xvideos.json",
         "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/xvideos.png"
+      },
+      {
+        "name": "Pimpbunny",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/pimpbunny.json",
+        "iconUrl": "https://pimpbunny.com/contents/avatars/46000/46131.png"
       }
     ]
   }
