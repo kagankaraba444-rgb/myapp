@@ -160,14 +160,14 @@
         "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/trans.png"
       },
       {
-        "name": "Fullporner",
-        "url": "https://fullporner.com",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/fullporner.png"
+        "name": "Czechav",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/czech_av.json",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/czechav.png"
       },
       {
-        "name": "Pornobae",
-        "url": "https://porno.trep.me",
-        "iconUrl": "https://pornobae.com/images/logo-new.png"
+        "name": "DDF Network",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/ddf_network.json",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/ddfnetwork.png"
       }
     ]
   },
