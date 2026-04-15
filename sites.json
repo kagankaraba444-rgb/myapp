@@ -228,12 +228,12 @@
     ]
   },
   {
-    "name": "HENTAİ",
+    "name": "PREMIUM",
     "links": [
       {
-        "name": "Porcore",
-        "url": "https://porcore.com",
-        "iconUrl": "https://porcore.com/uploads/porcore-logo-40-height-png5772a7711a40e.png"
+        "name": "TUSHY",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/tushy_com.json",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/tushy.png"
       },
       {
         "name": "Naughtymachinima",
