@@ -216,14 +216,14 @@
         "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/sinfulxxxlogosmall.png"
       },
       {
-        "name": "Findhername",
-        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/ddf_network.json",
-        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/ddfnetwork.png"
+        "name": "ScoreGroup",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/scoregroup.json",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/score.png"
       },
       {
-        "name": "Fansteek",
-        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/ddf_network.json",
-        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/ddfnetwork.png"
+        "name": "Rocco Siffredi",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/rocco_siffredi.json",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/rocco.png"
       }
     ]
   },
