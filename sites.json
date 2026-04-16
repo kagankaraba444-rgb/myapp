@@ -3,6 +3,11 @@
     "name": "Premium",
     "links": [
       {
+        "name": "deneme",
+        "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/site1.enc",
+        "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/adtime.webp"
+      },
+      {
         "name": "AdultTime",
         "url": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/adult_time.json",
         "iconUrl": "https://raw.githubusercontent.com/kagankaraba444-rgb/myapp/main/logo/adtime.webp"
